@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\Baryshev6Listing\Baryshev6Listing\bin\Debug\Baryshev6Listing.exe.config
+C:\Users\student\source\repos\Baryshev6Listing\Baryshev6Listing\bin\Debug\Baryshev6Listing.exe
+C:\Users\student\source\repos\Baryshev6Listing\Baryshev6Listing\bin\Debug\Baryshev6Listing.pdb
+C:\Users\student\source\repos\Baryshev6Listing\Baryshev6Listing\obj\Debug\Baryshev6Listing.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Baryshev6Listing\Baryshev6Listing\obj\Debug\Baryshev6Listing.Form1.resources
+C:\Users\student\source\repos\Baryshev6Listing\Baryshev6Listing\obj\Debug\Baryshev6Listing.Properties.Resources.resources
+C:\Users\student\source\repos\Baryshev6Listing\Baryshev6Listing\obj\Debug\Baryshev6Listing.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Baryshev6Listing\Baryshev6Listing\obj\Debug\Baryshev6Listing.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Baryshev6Listing\Baryshev6Listing\obj\Debug\Baryshev6Listing.exe
+C:\Users\student\source\repos\Baryshev6Listing\Baryshev6Listing\obj\Debug\Baryshev6Listing.pdb
