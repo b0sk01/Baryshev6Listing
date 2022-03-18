@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baryshev6Listing41-50", "Baryshev6Listing41-50\Baryshev6Listing41-50.csproj", "{59655264-F1AA-40F6-A94B-F2D6D64A5C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59655264-F1AA-40F6-A94B-F2D6D64A5C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59655264-F1AA-40F6-A94B-F2D6D64A5C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59655264-F1AA-40F6-A94B-F2D6D64A5C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59655264-F1AA-40F6-A94B-F2D6D64A5C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47AA2D3C-D275-45ED-A65F-6C79EF1F8662}
+	EndGlobalSection
+EndGlobal
