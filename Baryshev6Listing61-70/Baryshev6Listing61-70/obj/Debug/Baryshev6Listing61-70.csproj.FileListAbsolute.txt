@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\Baryshev6Listing61-70\Baryshev6Listing61-70\bin\Debug\Baryshev6Listing61-70.exe.config
+C:\Users\student\source\repos\Baryshev6Listing61-70\Baryshev6Listing61-70\bin\Debug\Baryshev6Listing61-70.exe
+C:\Users\student\source\repos\Baryshev6Listing61-70\Baryshev6Listing61-70\bin\Debug\Baryshev6Listing61-70.pdb
+C:\Users\student\source\repos\Baryshev6Listing61-70\Baryshev6Listing61-70\obj\Debug\Baryshev6Listing61-70.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Baryshev6Listing61-70\Baryshev6Listing61-70\obj\Debug\Baryshev6Listing61_70.Form1.resources
+C:\Users\student\source\repos\Baryshev6Listing61-70\Baryshev6Listing61-70\obj\Debug\Baryshev6Listing61_70.Properties.Resources.resources
+C:\Users\student\source\repos\Baryshev6Listing61-70\Baryshev6Listing61-70\obj\Debug\Baryshev6Listing61-70.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Baryshev6Listing61-70\Baryshev6Listing61-70\obj\Debug\Baryshev6Listing61-70.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Baryshev6Listing61-70\Baryshev6Listing61-70\obj\Debug\Baryshev6Listing61-70.exe
+C:\Users\student\source\repos\Baryshev6Listing61-70\Baryshev6Listing61-70\obj\Debug\Baryshev6Listing61-70.pdb
